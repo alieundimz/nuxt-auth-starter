@@ -1,4 +1,4 @@
-# client
+# NuxtJS authentication with nuxt/auth & nuxt/axios starter template
 
 > Nuxt.js project
 
